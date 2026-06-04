@@ -1,41 +1,47 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=174a96&height=120&section=header" alt="header"/> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4500&pause=500&color=174a96&center=true&vCenter=true&width=700&lines=Hello%2C+it's+Effie+Zimon;Senior+Software+QA+Engineer"
+      alt="Senior Software QA Engineer"
+    />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=174a96&width=435&lines=Hello%2C+it's+Effie+Zimon;Senior+Software+QA+Engineer" alt="Senior Software QA Engineer"/>
-</a>
+<h3 align="center">
+Senior Software QA Engineer | SDET | Test Automation Architect | Scrum Master
+</h3>
 
-### SSQAE | SDET | QA Automation Engineer | Scrum Master
+<p align="center">
+🚀 Building scalable automation frameworks, driving quality engineering excellence, and enabling faster, more reliable software delivery.
+</p>
 
-🚀 Passionate about building scalable automation frameworks, improving software quality, and enabling faster, more reliable releases.
+<h3 align="center">👩‍💻 About Me</h3>
 
-## 👩‍💻 About Me
-
-🔹 5+ years in Software Quality Assurance and Test Automation
-
-🔹 Expertise in Playwright, Cypress, Selenium, Appium & API Testing
-
-🔹 Experienced in Agile environments as both QA Lead and Scrum Master
-
+<p align="center">
+🔹 5+ years in Software Quality Assurance and Test Automation<br/>
+🔹 Expertise in Playwright, Cypress, Selenium, Appium & API Testing<br/>
+🔹 Experienced in Agile environments as both QA Lead and Scrum Master<br/>
 🔹 Passionate about Quality Engineering, Shift-Left Testing, and Continuous Improvement
+</p>
 
-## 📊 Impact
+<h3 align="center">📊 Impact</h3>
 
-✅ 200+ Automated Test Cases
-
-✅ 35% Faster Regression Execution
-
-✅ 25% Higher Defect Detection Rate
-
-✅ 25% Faster CI/CD Builds
-
-✅ 20+ Successful Agile Sprints
-
+<p align="center">
+✅ 200+ Automated Test Cases<br/>
+✅ 35% Faster Regression Execution<br/>
+✅ 25% Higher Defect Detection Rate<br/>
+✅ 25% Faster CI/CD Builds<br/>
+✅ 20+ Successful Agile Sprints<br/>
 ✅ Multiple Enterprise Products Delivered
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center">
+🛠️ Tech Stack
+</h3>
 
 <table>
 <tr>
@@ -116,7 +122,7 @@
 
 ---
 
-## 🚀 Professional Projects
+<h3 align="center"> 🚀 Professional Projects </h3>
 
 ### 🚗 [MINI USA](https://www.miniusa.com/)
 
@@ -136,14 +142,21 @@ Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT e
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EffieZimon&show_icons=true&theme=transparent)
+<h3 align="center">📈 GitHub Stats</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EffieZimon&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EffieZimon&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffieZimon&layout=compact&theme=transparent" />
+</p>
 
 --- 
 
-## Connect with me:
+<h3 align="center">
+🌍 Connect with me:
+</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/effie-zimon-51701938b/" target="_blank"><img src="https://img.shields.io/badge/-Effie%20Zimon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:effiezimon@gmail.com"><img src="https://img.shields.io/badge/-effiezimon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -152,9 +165,12 @@ Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT e
 
 ---
 
+<h3 align="center">Employer?</h3>
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/effiezimonresumelink?usp=sharing" download>Download my resume</a>
-
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/effiezimonresumelink?usp=sharing">
+    <img src="https://img.shields.io/badge/Download_Resume-174a96?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=174a96&height=120&section=footer" alt="footer"/>
+</div>
