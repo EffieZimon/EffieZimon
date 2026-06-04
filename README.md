@@ -141,7 +141,7 @@ Cloud-based Student Information System (SIS) streamlining academic operations an
 Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT ecosystems.
 
 ---
-
+<!--
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
@@ -151,8 +151,7 @@ Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT e
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffieZimon&layout=compact&theme=transparent" />
 </p>
-
---- 
+-->
 
 <h3 align="center">
 🌍 Connect with me:
@@ -168,7 +167,7 @@ Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT e
 <h3 align="center">Employer?</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/effiezimonresumelink?usp=sharing">
+  <a href="https://drive.google.com/file/d/1w2etZ9-u5ug8rZJfOqsII3pm6qMgNfbT/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download_Resume-174a96?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
