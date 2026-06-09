@@ -126,19 +126,19 @@ Senior Software QA Engineer | SDET | Test Automation Architect | Scrum Master
 
 ### 🚗 [MINI USA](https://www.miniusa.com/)
 
-Official MINI brand presence in the United States, delivering premium automotive experiences and digital customer journeys.
+MINI is a British automotive brand known for small cars. MINI USA is the official division of the MINI brand in the United States.
 
 ### 🚕 [inDrive](https://www.indrive.com/)
 
-Global mobility and urban services platform serving millions of users worldwide.
+inDrive is a global mobility and urban services platform, best known for ride-hailing service.
 
 ### 🎓 [Campus on Cloud](https://www.almusnet.com/)
 
-Cloud-based Student Information System (SIS) streamlining academic operations and administration.
+Campus on Cloud is a cloud-based Student Information System (SIS) provided by the company AlmusNet.
 
 ### 🌐 [Seedify](https://seedify.fund/)
 
-Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT ecosystems.
+Seedify is a prominent Web3 incubator and launchpad platform focused on GameFi (blockchain gaming) and NFTs.
 
 ---
 <!--
@@ -157,7 +157,7 @@ Leading Web3 incubator and launchpad focused on blockchain gaming, AI, and NFT e
 🌍 Connect with me:
 </h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/effie-zimon-51701938b/" target="_blank"><img src="https://img.shields.io/badge/-Effie%20Zimon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/effie-zimon-51701938b/" target="_blank"><img src="https://img.shields.io/badge/-Effie%20Zimon-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
     <a target="_blank" href="mailto:effiezimon@gmail.com"><img src="https://img.shields.io/badge/-effiezimon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/EffieZimon" target="_blank"><img src="https://img.shields.io/badge/-Effie%20Zimon-FFA116?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
